@@ -126,8 +126,9 @@ footer .container {
         font-size: 2rem;
     }
 
-    img {
-        margin: 0px;
+    .gallery img {
+        margin: 0.3rem 0px;
+        width: 100%;
     }
 
     footer nav {
